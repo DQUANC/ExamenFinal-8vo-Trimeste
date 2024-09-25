@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\bin\Debug\ExamenFinal_DQuan.exe.config
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\bin\Debug\ExamenFinal_DQuan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\bin\Debug\ExamenFinal_DQuan.pdb
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.Form1.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.Properties.Resources.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\ExamenFinal_DQuan\ExamenFinal_DQuan\obj\Debug\ExamenFinal_DQuan.pdb
